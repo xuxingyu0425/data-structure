@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project4.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  静态.cpp
+C:\Users\86135\Desktop\c\线性表静态分配\Project4\静态.cpp(58): warning C4715: “LocalElem”: 不是所有的控件路径都返回值
+  Project4.vcxproj -> C:\Users\86135\Desktop\c\线性表动态分配\x64\Debug\线性表静态分配.exe
